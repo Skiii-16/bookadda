@@ -1,4 +1,4 @@
 # Bookadda Website
-https://bookadda-321.netlify.app/
+https://bookadda.netlify.app/
 
 For more details please open above folder.
